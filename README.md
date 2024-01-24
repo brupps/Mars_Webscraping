@@ -1,14 +1,16 @@
-# Mars_Webscraping
-
-
 # Mars_Weather_Webscraping
 The assignment outline below was completed by using webscraping techniques learned in class. In addition, once the data was scraped it was organized into dataframes and then analyzed. Once that was completed the data was exported to a CSV file.
 
 # Skills
+- Webscraping
+- Splinter
+- Pandas
+- Beautiful Soup
+- Matplotlib
 
+## Results
 
-
-Instructions
+## Instructions
 Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
 1. Use automated browsing to visit the Mars news site Links to an external site. . Inspect the page to identify which elements to scrape. HINT
