@@ -1,7 +1,7 @@
 # Mars_Weather_Webscraping
 The assignment outline below was completed by using webscraping techniques learned in class. In addition, once the data was scraped it was organized into dataframes and then analyzed. Once that was completed the data was exported to a CSV file.
 
-# Skills
+## Skills
 - Webscraping
 - Splinter
 - Pandas
@@ -9,6 +9,8 @@ The assignment outline below was completed by using webscraping techniques learn
 - Matplotlib
 
 ## Results
+Through the analysis of the data provided, it was determined that the third Martian month was the coldest with an average temperature of -83.307292ºC while the warmest month was month nine with an average temperature of -69.171642ºC--which in human terms, is incredibly cold. A year on Mars is about 687 days.
+
 
 ## Instructions
 Part 1: Scrape Titles and Preview Text from Mars News
